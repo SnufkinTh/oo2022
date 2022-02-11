@@ -1,0 +1,47 @@
+INTELLIJ-d installides
+
+
+UPDATE PATH variable
+
+LINNUKE
+
+Student Admin parool:
+ifikas2022
+
+
+JavaScript HTML CSS --- front-end
+	tekivad nupud
+	funktsioone mis muudavad välimust
+
+
+Back-end:
+Java, PHP, C#, C, Python
+
+cd -- change directory
+mkdir -- make directory
+
+git -- koodihoidlaga suhtlus
+github -- koodihoidla
+gitlab -- koodihoidla
+bitbucket -- koodihoidla
+
+C:\Users\Student Admin\Mihkel
+
+git clone "github_url"
+
+FILE -> OPEN FOLDER -> 01_funktsioon
+
+FILE -> PROJECT-STRUCTURE -> SDK -> 17
+
+KAUSTA PEAL -> PAREM KLÕPS -> NEW JAVA CLASS
+"GAME"
+
+git add . -- mis failid
+git commit -m "game kaardi väljaprint"
+
+git config -- GITHUBi kasutajanimi
+git config -- GITHUBi e-mail
+
+git push -- uploadib
+
+sisselogimine -- brauseri variant
