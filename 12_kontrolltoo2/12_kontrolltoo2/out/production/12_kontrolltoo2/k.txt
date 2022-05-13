@@ -1,0 +1,4 @@
+k tähega algavaid sõnu on 70
+back
+rock
+break

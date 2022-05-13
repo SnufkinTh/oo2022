@@ -1,0 +1,4 @@
+1 tähega algavaid sõnu on 70
+"L"
+do,
+on,

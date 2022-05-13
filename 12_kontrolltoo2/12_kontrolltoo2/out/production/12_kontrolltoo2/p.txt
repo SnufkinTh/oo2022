@@ -1,0 +1,3 @@
+p tähega algavaid sõnu on 21
+stop
+up

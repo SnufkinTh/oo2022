@@ -1,0 +1,8 @@
+3 tähega algavaid sõnu on 70
+star,
+fire,
+show,
+said,
+"Yup"
+Well,
+(go!)

@@ -1,0 +1,4 @@
+m tähega algavaid sõnu on 21
+warm
+swim
+from
